@@ -24,5 +24,3 @@ def bgcolor(bgcolor):
 
 def uncolor():
     return "\033[0m"
-
-print(colorize(255, [100],1) + "hi")
