@@ -47,15 +47,15 @@
 <h3>Predetermined color</h2>
 <p>These variables are values that you can call predefined colors by calling them:</p>
 <ul>
-<li><code>red = [205,0,0]
-green = [0,205,0]
-white = [255,255,255]
-black = [0,0,0]
-gray = [50,50,50]
-blue = [0,0,205]
-yellow = [255, 230, 0]
-magenra = [255,0,255]
-cyan = [0,255,255]</code></li>
+<li><code>red = [205,0,0]</code></li>
+<li><code>green = (0,205,0)</code></li>
+<li><code>white = (255,255,255)</code></li>
+<li><code>black = (0,0,0)</code></li>
+<li><code>gray = (50,50,50)</code></li>
+<li><code>blue = (0,0,205)</code></li>
+<li><code>yellow = (255, 230, 0)</code></li>
+<li><code>magenra = (255,0,255)</code></li>
+<li><code>cyan = (0,255,255)</code></li>
 </ul>
 <p>For more information on how to use these functions, please refer to the documentation on Hamidreza Ahmadi's GitHub page.</p>
 <h2>Conclusion</h2>
