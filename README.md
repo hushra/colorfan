@@ -45,7 +45,7 @@
 <li><code>uncolor</code></li>
 </ul>
 <h3>Predetermined color</h2>
-<p>These variables are values that you can call predefined colors by calling them:</p>
+<p>These variables are values that you can call predefined colors by calling them inner <code>colorize()</code>, <code>fgcolor()</code> & <code>bgcolor()</code>:</p>
 <ul>
 <li><code>red = [205,0,0]</code></li>
 <li><code>green = (0,205,0)</code></li>
