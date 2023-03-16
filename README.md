@@ -38,7 +38,25 @@
 <p>These functions are simpler versions of <code>colorize</code>. They each take one argument, which is the color for the foreground or background, respectively. The format of this argument is the same as for <code>fgcolor</code> and <code>bgcolor</code> in <code>colorize</code>.</p>
 <h3><code>uncolor</code></h3>
 <p>The <code>uncolor</code> function returns the escape code to reset the terminal color back to its default value.</p>
-
+<ul>
+<li><code>colorize</code></li>
+<li><code>fgcolor</code></li>
+<li><code>bgcolor</code></li>
+<li><code>uncolor</code></li>
+</ul>
+<h3>Predetermined color</h2>
+<p>These variables are values that you can call predefined colors by calling them:</p>
+<ul>
+<li><code>red = [205,0,0]
+green = [0,205,0]
+white = [255,255,255]
+black = [0,0,0]
+gray = [50,50,50]
+blue = [0,0,205]
+yellow = [255, 230, 0]
+magenra = [255,0,255]
+cyan = [0,255,255]</code></li>
+</ul>
 <p>For more information on how to use these functions, please refer to the documentation on Hamidreza Ahmadi's GitHub page.</p>
 <h2>Conclusion</h2>
 <p>With Colorfan, you can easily add color and style to the text displayed on the terminal/command prompt in your Python applications. This module is easy to use and highly customizable, making it a great choice for developers who want to create eye-catching console interfaces.</p>
