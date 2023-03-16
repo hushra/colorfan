@@ -1,3 +1,10 @@
+red = [205,0,0]
+green = [0,205,0]
+white = [255,255,255]
+black = [0,0,0]
+gray = [50,50,50]
+blue = [0,0,205]
+yellow = [0,102,102]
 def _gncolor(color,c):
         colorcode = ""
         if color != False:
