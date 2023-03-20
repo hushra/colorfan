@@ -7,7 +7,6 @@ blue = [0,0,205]
 yellow = [255, 230, 0]
 magenra = [255,0,255]
 cyan = [0,255,255]
-pink = [255,0,255]
 
 def _gncolor(color,c):
         colorcode = ""
